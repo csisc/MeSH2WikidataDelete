@@ -12,4 +12,4 @@ This is an experiment of letting the semantic relations flagged in Turki et al. 
 Wikimedia contributors are invited to assess the semantic relations in **Low PMI.xlsx** and **Not Available in PubMed.xlsx** that are flagged by Jev as "false" and "maybe" and remove them from Wikidata if not accurate.
 
 # To Cite
-Turki, H. (2026). *csisc/MeSH2WikidataDelete: How well does a Pointwise Mutual Information threshold identify questionable Wikidata Biomedical Relations*. Zenodo.
+Turki, H. (2026). *csisc/MeSH2WikidataDelete: How well does a Pointwise Mutual Information threshold identify questionable Wikidata Biomedical Relations*. Zenodo. [![DOI](https://zenodo.org/badge/1402958984.svg)](https://doi.org/10.5281/zenodo.23119391)
