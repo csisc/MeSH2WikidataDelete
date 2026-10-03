@@ -8,5 +8,8 @@ This is an experiment of letting the semantic relations flagged in Turki et al. 
 - **Wikidata_PMI_Jev_Analysis.ipynb**: The Claude Sonnet 5.5-generated statistical analysis for the Jev-based evaluation of Wikidata relations.
 - **Research_Paper.pdf**: The Claude Sonnet 5.5-generated research paper for the Jev-based evaluation of Wikidata relations.
 
+# Call for Contributors
+Wikimedia contributors are invited to assess the semantic relations in **Low PMI.xlsx** and **Not Available in PubMed.xlsx** that are flagged by Jev as "false" and "maybe" and remove them from Wikidata if not accurate.
+
 # To Cite
 Turki, H. (2026). *How well does a Pointwise Mutual Information Threshold identify questionable Wikidata Biomedical Relations*. Zenodo.
